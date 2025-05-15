@@ -1,0 +1,57 @@
+
+.custom-toolbar {
+  --background: #fafafa;
+  --color: #444;
+}
+
+.custom-title {
+  font-size: 26px;
+  color: #97e010;
+  text-align: justify;
+}
+
+
+.subtitle {
+  text-align: center;
+  font-size: 2rem;
+  padding-top: 50px;
+  margin-bottom: 50px;
+}
+
+.custom-input {
+  width: 50%;
+  margin: 10px auto;
+  padding-bottom: 10px;
+  --padding-start: 10px;
+}
+
+.ion-margin-top {
+  width: 50%;
+  margin: auto;
+  display: block;
+}
+
+
+
+
+/*
+
+  container: { flex: 1, justifyContent: 'center', padding: 20 },
+  title: { fontSize: 36, marginBottom: 100, textAlign: 'center', color: '#000' },
+  input: {
+  width: '50%',               
+  alignSelf: 'center',
+  borderWidth: 1,
+  borderColor: '#ccc',
+  marginBottom: 15,
+  padding: 10,
+  borderRadius: 5,
+  backgroundColor: '#fff',
+  color: '#000'
+  },
+  buttonContainer: {
+  width: '50%',
+  alignSelf: 'center',
+  marginTop: 10
+  }
+  */
